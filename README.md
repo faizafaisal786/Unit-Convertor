@@ -34,6 +34,19 @@ A modern, Google-style unit converter built with Python and Streamlit. Convert b
 4. Enter the value you want to convert
 5. Click "Convert" to see the result
 
+## Deployment
+
+This app is deployed on Streamlit Cloud. You can access it at:
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://faizafaisal786-unit-convertor-app-xxxxxx.streamlit.app)
+
+To deploy your own version:
+1. Fork this repository
+2. Go to [Streamlit Cloud](https://share.streamlit.io/)
+3. Click "New app"
+4. Select your forked repository
+5. Set the main file path to `app.py`
+6. Click "Deploy!"
+
 ## Requirements
 
 - Python 3.7+
